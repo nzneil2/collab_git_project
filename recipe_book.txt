@@ -1,3 +1,11 @@
+Pizza-Pasta Section:
+
+Pizza Pepperoni:
+Pizza dough
+1 teaspoon dried oregano
+1 teaspoon dried basil
+6 ounces peperoni
+
 <<<<<<< HEAD
 STARTERS:
 
@@ -124,3 +132,4 @@ Chocolate Cake:
 =======
 >>>>>>> 09ea9dea51416f7fe6b928f06b95299110fa3c8e
 >>>>>>> d3d5234163d2464007edb22e98099b6106c64a10
+
