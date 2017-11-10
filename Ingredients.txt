@@ -1,12 +1,28 @@
 Dairy:
+<<<<<<< HEAD
 8 ounces cream cheese.
+=======
+2 cup grated parmesan.
+2 tablespoon butter
+1 cup light cream
+
+>>>>>>> 18da179800e9c6bf44509165a661ab19ad70ec49
 
 
 ------------
 Vegetables:
+<<<<<<< HEAD
+8 cups vegetable broth.
 3 crushed garlic cloves.
 
 
+=======
+8 Mushrooms
+1/2 onion
+1 garlic clove
+1 tbsp horseradish
+4 tbsp shredded letuce
+>>>>>>> 18da179800e9c6bf44509165a661ab19ad70ec49
 
 ------------
 Meats:
@@ -16,11 +32,31 @@ Meats:
 
 ------------
 Grains:
-
-
+2 tablepoons flour
+2 cups arborio rice.
 
 
 ------------
+Condiments:
+1/2 teaspoon salt
+1/4 teaspoon pepper
+1 teaspoon salt.
+1 teaspoon pepper.
+
+
+------------
+Fish:
+4 prawns
+
+
+------------
+Fruit:
+Squeeze of lemon juice
+4 thin slices lemon
+
+
+------------
+<<<<<<< HEAD
 Fish:
 1 can tuna. 
 
@@ -30,3 +66,13 @@ Condements:
 2 table spoon mayonnaise.
 
 
+=======
+Sauce:
+8 tbsp tomato ketchup
+1/4 pint mayonnaise
+1 tsp Worcestershire sauce
+
+-----------
+Oils:
+3 tablespoons olive oil.
+>>>>>>> 18da179800e9c6bf44509165a661ab19ad70ec49
