@@ -88,7 +88,11 @@ Squeeze of lemon juice
 <<<<<<< HEAD
 =======
 6 tomatoes
+<<<<<<< HEAD
+4 cups chopped fruit of any kind.
+=======
 >>>>>>> 7a8c4cdbb80733a5ea03ce91d34a65dc7ca0202f
+>>>>>>> da8df6c12db0264e844d4aad87064fecedf7dbdf
 
 ------------
 <<<<<<< HEAD
@@ -111,9 +115,14 @@ Marinara
 =======
 <<<<<<< HEAD
 ------------
+Sweeteners:
+1 cup sugar.
+
+------------
 Liquids:
 1 tbsp extra virgin olive oil
 1 tsp balsamic vinegar
+3 cups water
 ------------
 Herbs:
 6 basil leaves
