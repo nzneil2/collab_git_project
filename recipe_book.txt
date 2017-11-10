@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Vegetarian Section:
 
 Baked Spaghetti Squash Lasagna Style
@@ -37,6 +38,15 @@ knob of butter
 small pack parsley, chopped
 
 
+=======
+Pizza-Pasta Section:
+
+Pizza Pepperoni:
+Pizza dough
+1 teaspoon dried oregano
+1 teaspoon dried basil
+6 ounces peperoni
+>>>>>>> d5dd5b9d321712ed6e5e240124aaa91492102f4c
 
 <<<<<<< HEAD
 STARTERS:
@@ -163,4 +173,9 @@ Chocolate Cake:
 ½ cup vegetable oil
 =======
 >>>>>>> 09ea9dea51416f7fe6b928f06b95299110fa3c8e
+<<<<<<< HEAD
 >>>>>>> d3d5234163d2464007edb22e98099b6106c64a10
+=======
+>>>>>>> d3d5234163d2464007edb22e98099b6106c64a10
+
+>>>>>>> d5dd5b9d321712ed6e5e240124aaa91492102f4c
