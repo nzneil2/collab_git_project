@@ -1,9 +1,23 @@
 Eggs & Dairy:
 <<<<<<< HEAD
 8 ounces cream cheese.
+<<<<<<< HEAD
 2 large eggs.
 1 cup milk.
 
+=======
+Ricotta salata
+2 cup grated parmesan.
+50g butter
+350g mascapone cheese
+=======
+8 ounces cream cheese
+1 1/2 cup butter
+2 tbsp cream cheese
+1 pint heavy cream
+2/3 cup grated parmesan
+300ml carton whipping cream
+>>>>>>> af745d6fb3a13eb14f911d9b2ce5f7a96858a198
 ------------
 2 cup grated parmesan.
 2 tablespoon butter
@@ -17,8 +31,17 @@ Vegetables:
 <<<<<<< HEAD
 8 cups vegetable broth.
 3 crushed garlic cloves.
+<<<<<<< HEAD
 
 
+=======
+<<<<<<< HEAD
+2 Eggplants
+=======
+1 tsp garlic powder
+>>>>>>> f5256ff63fe81a08d3502da400b7d20f526ca29c
+grated chocolate
+>>>>>>> af745d6fb3a13eb14f911d9b2ce5f7a96858a198
 ------------
 8 Mushrooms
 1/2 onion
@@ -71,7 +94,17 @@ Squeeze of lemon juice
 4 thin slices lemon
 6 tomatoes
 4 cups chopped fruit of any kind.
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 7a8c4cdbb80733a5ea03ce91d34a65dc7ca0202f
+<<<<<<< HEAD
+4 bananas
+=======
+>>>>>>> da8df6c12db0264e844d4aad87064fecedf7dbdf
+>>>>>>> af745d6fb3a13eb14f911d9b2ce5f7a96858a198
 
+>>>>>>> c8541ba87f2f0f823d389db5ebf5ff0673784d10
 ------------
 <<<<<<< HEAD
 Fish:
@@ -89,6 +122,13 @@ Sauce:
 1/4 pint mayonnaise
 1 tsp Worcestershire sauce
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Marinara
+=======
+<<<<<<< HEAD
+397g can Carnation Caramel
+>>>>>>> af745d6fb3a13eb14f911d9b2ce5f7a96858a198
 ------------
 Sweeteners:
 2 cups sugar.
@@ -115,3 +155,29 @@ Oils:
 ½ cup vegetable oil
 >>>>>>> 18da179800e9c6bf44509165a661ab19ad70ec49
 >>>>>>> 75ba452f0d87aaacfe15ce0adabc613154b41f6e
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7a8c4cdbb80733a5ea03ce91d34a65dc7ca0202f
+=======
+------------
+Pasta:
+1 lb fettuccine
+>>>>>>> f5256ff63fe81a08d3502da400b7d20f526ca29c
+<<<<<<< HEAD
+------------
+Biscuits:
+250g digestive biscuits
+=======
+
+------------
+Biscuits:
+200g digestive biscuits
+
+
+------------
+Fruit:
+1 Zest of lemon
+3 Juice of lemon
+>>>>>>> c8541ba87f2f0f823d389db5ebf5ff0673784d10
+>>>>>>> af745d6fb3a13eb14f911d9b2ce5f7a96858a198
