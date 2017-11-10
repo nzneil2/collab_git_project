@@ -1,39 +1,48 @@
 Eggs & Dairy:
 26 ounces cream cheese
-2 large eggs.
+6 large eggs.
 1 cup milk.
 Ricotta salata
 350g mascapone cheese
 1 pint heavy cream
 2 cups light cream
 300ml carton whipping cream
-6.5 cup grated parmesan
+7.5 cup grated parmesan
 7 tablespoon butter
 Mozzarella
 
 ------------
 Vegetables:
 8 cups vegetable broth.
-9 crushed garlic cloves
+13 crushed garlic cloves
 2 Eggplants
 1 tsp garlic powder
 grated chocolate
 8 Mushrooms
-1/2 onion
+3 onion
 1 tbsp horseradish
 4 tbsp shredded letuce
+2 carrots
+2 celery sticks
+2 sprigs rosemary
 
 ------------
 Meats:
 1.25 kg beef fillet trimmed 
+<<<<<<< HEAD
+500g beef mince
+500g pancetta
 
-
+=======
+6 ounces Pepperoni
+>>>>>>> 9794bac854f0cde08aff4bd8135f9fabe78b5ead
 
 ------------
 Grains:
 5 tablepoons flour.
 2 cups arborio rice.
 2 teaspoons baking powder.
+Pizza Dough
 
 ------------
 Condiments:
@@ -45,7 +54,6 @@ Condiments:
 ------------
 Fish:
 4 prawns
-
 
 ------------
 Fruit:
@@ -60,25 +68,17 @@ Fish:
 1 can tuna. 
 
 ------------
-Condements:
-1 teaspoon garlic salt.
-2 table spoon mayonnaise.
-
-------------
 Sauce:
 8 tablespoon mayonnaise.
 8 tbsp tomato ketchup
 1 tsp Worcestershire sauce
 Marinara
 397g can Carnation Caramel
+12 ounces tomato paste
 
 ------------
 Sweeteners:
-2 cups sugar
-
-------------
-Sweeteners:
-3 cups sugar.
+5 cups sugar.
 2 teaspoons vanilla extract.
 1 teaspoon espresso powder.
 ¾ cup unsweetened cocoa powder.
@@ -95,16 +95,20 @@ Herbs:
 
 ------------
 Oils:
-3 tablespoons olive oil.
+
+5 tablespoons olive oil.
 2 tablespoons sunflower oil
 
 ------------
 Herbs:
 Basil
+1 teaspoon dried oregano
+1 teaspoon basil
 
 ------------
 Pasta:
 1 lb fettuccine
+2 lb spaghetti pasta
 
 ------------
 Biscuits:
