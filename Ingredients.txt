@@ -1,49 +1,30 @@
-Dairy:
-<<<<<<< HEAD
-<<<<<<< HEAD
-8 ounces cream cheese.
+Eggs & Dairy:
+18 ounces cream cheese
 Ricotta salata
-2 cup grated parmesan.
-50g butter
+2 cup grated parmesan
 350g mascapone cheese
-=======
-8 ounces cream cheese
-1 1/2 cup butter
-2 tbsp cream cheese
 1 pint heavy cream
+1 cup light cream
 2/3 cup grated parmesan
 300ml carton whipping cream
-------------
 2 cup grated parmesan
->>>>>>> f5256ff63fe81a08d3502da400b7d20f526ca29c
-2 tablespoon butter
-1 cup light cream
+5 tablespoon butter
 Mozzarella
->>>>>>> 18da179800e9c6bf44509165a661ab19ad70ec49
+2 large eggs
+1 cup milk
 
 ------------
 Vegetables:
-<<<<<<< HEAD
 8 cups vegetable broth.
-3 crushed garlic cloves.
-<<<<<<< HEAD
+6 crushed garlic cloves
 2 Eggplants
-=======
 1 tsp garlic powder
->>>>>>> f5256ff63fe81a08d3502da400b7d20f526ca29c
 grated chocolate
-------------
 8 Mushrooms
 1/2 onion
-1 garlic clove
 1 tbsp horseradish
 4 tbsp shredded letuce
-<<<<<<< HEAD
-2 cloves garlic
-=======
->>>>>>> 18da179800e9c6bf44509165a661ab19ad70ec49
 
->>>>>>> 75ba452f0d87aaacfe15ce0adabc613154b41f6e
 ------------
 Meats:
 1.25 kg beef fillet trimmed 
@@ -56,27 +37,9 @@ Pizza Dough
 
 ------------
 Condiments:
-<<<<<<< HEAD
-<<<<<<< HEAD
-1/4 teaspoon pepper
-1.5 teaspoon salt.
-1.25 teaspoons pepper.
-=======
-<<<<<<< HEAD
-1 1/2 teaspoon salt
-3/4 teaspoon pepper
-=======
-2 teaspoon salt
-1 1/4 teaspoon pepper
->>>>>>> f5256ff63fe81a08d3502da400b7d20f526ca29c
-=======
-1/2 teaspoon salt
-1/4 teaspoon pepper
-1 teaspoon salt.
-1 teaspoon pepper.
->>>>>>> 75ba452f0d87aaacfe15ce0adabc613154b41f6e
-
->>>>>>> 7a8c4cdbb80733a5ea03ce91d34a65dc7ca0202f
+5 tablespoon salt.
+2.5 tablespoons pepper.
+1 teaspoon garlic salt.
 
 ------------
 Fish:
@@ -86,89 +49,55 @@ Fish:
 Fruit:
 Squeeze of lemon juice
 4 thin slices lemon
-<<<<<<< HEAD
-=======
 6 tomatoes
-<<<<<<< HEAD
 4 cups chopped fruit of any kind.
-=======
->>>>>>> 7a8c4cdbb80733a5ea03ce91d34a65dc7ca0202f
-<<<<<<< HEAD
 4 bananas
-=======
->>>>>>> da8df6c12db0264e844d4aad87064fecedf7dbdf
 
->>>>>>> c8541ba87f2f0f823d389db5ebf5ff0673784d10
 ------------
-<<<<<<< HEAD
 Fish:
 1 can tuna. 
 
 ------------
-Condements:
-1 teaspoon garlic salt.
-2 tablespoon mayonnaise.
-1 tablespoon salt
-100g sugar
-------------
 Sauce:
+8 tablespoon mayonnaise.
 8 tbsp tomato ketchup
-1/4 pint mayonnaise
 1 tsp Worcestershire sauce
-<<<<<<< HEAD
 Marinara
-=======
-<<<<<<< HEAD
 397g can Carnation Caramel
+
 ------------
 Sweeteners:
-1 cup sugar.
+2 cups sugar
 
 ------------
 Liquids:
 1 tbsp extra virgin olive oil
 1 tsp balsamic vinegar
 3 cups water
+
 ------------
 Herbs:
 6 basil leaves
-=======
->>>>>>> 7a8c4cdbb80733a5ea03ce91d34a65dc7ca0202f
 
 ------------
 Oils:
 5 tablespoons olive oil.
 2 tablespoons sunflower oil
->>>>>>> 18da179800e9c6bf44509165a661ab19ad70ec49
-<<<<<<< HEAD
 
 ------------
 Herbs:
 Basil
 
 ------------
-=======
->>>>>>> 75ba452f0d87aaacfe15ce0adabc613154b41f6e
-<<<<<<< HEAD
->>>>>>> 7a8c4cdbb80733a5ea03ce91d34a65dc7ca0202f
-=======
-------------
 Pasta:
 1 lb fettuccine
->>>>>>> f5256ff63fe81a08d3502da400b7d20f526ca29c
-<<<<<<< HEAD
-------------
-Biscuits:
-250g digestive biscuits
-=======
 
 ------------
 Biscuits:
-200g digestive biscuits
-
+450g digestive biscuits
 
 ------------
 Fruit:
 1 Zest of lemon
 3 Juice of lemon
->>>>>>> c8541ba87f2f0f823d389db5ebf5ff0673784d10
+
