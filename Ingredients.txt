@@ -4,6 +4,8 @@ Dairy:
 8 ounces cream cheese.
 Ricotta salata
 2 cup grated parmesan.
+50g butter
+350g mascapone cheese
 =======
 8 ounces cream cheese
 1 1/2 cup butter
@@ -87,8 +89,16 @@ Squeeze of lemon juice
 <<<<<<< HEAD
 =======
 6 tomatoes
+<<<<<<< HEAD
+4 cups chopped fruit of any kind.
+=======
 >>>>>>> 7a8c4cdbb80733a5ea03ce91d34a65dc7ca0202f
+<<<<<<< HEAD
 4 bananas
+=======
+>>>>>>> da8df6c12db0264e844d4aad87064fecedf7dbdf
+
+>>>>>>> c8541ba87f2f0f823d389db5ebf5ff0673784d10
 ------------
 <<<<<<< HEAD
 Fish:
@@ -99,7 +109,7 @@ Condements:
 1 teaspoon garlic salt.
 2 tablespoon mayonnaise.
 1 tablespoon salt
-
+100g sugar
 ------------
 Sauce:
 8 tbsp tomato ketchup
@@ -111,9 +121,14 @@ Marinara
 <<<<<<< HEAD
 397g can Carnation Caramel
 ------------
+Sweeteners:
+1 cup sugar.
+
+------------
 Liquids:
 1 tbsp extra virgin olive oil
 1 tsp balsamic vinegar
+3 cups water
 ------------
 Herbs:
 6 basil leaves
@@ -141,6 +156,19 @@ Basil
 Pasta:
 1 lb fettuccine
 >>>>>>> f5256ff63fe81a08d3502da400b7d20f526ca29c
+<<<<<<< HEAD
 ------------
 Biscuits:
 250g digestive biscuits
+=======
+
+------------
+Biscuits:
+200g digestive biscuits
+
+
+------------
+Fruit:
+1 Zest of lemon
+3 Juice of lemon
+>>>>>>> c8541ba87f2f0f823d389db5ebf5ff0673784d10
