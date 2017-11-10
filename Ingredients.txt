@@ -21,8 +21,12 @@ Vegetables:
 1 garlic clove
 1 tbsp horseradish
 4 tbsp shredded letuce
+<<<<<<< HEAD
+2 cloves garlic
+=======
 >>>>>>> 18da179800e9c6bf44509165a661ab19ad70ec49
 
+>>>>>>> 75ba452f0d87aaacfe15ce0adabc613154b41f6e
 ------------
 Meats:
 1.25 kg beef fillet trimmed 
@@ -35,9 +39,22 @@ Pizza Dough
 
 ------------
 Condiments:
+<<<<<<< HEAD
 1/4 teaspoon pepper
 1.5 teaspoon salt.
 1.25 teaspoons pepper.
+=======
+<<<<<<< HEAD
+1 1/2 teaspoon salt
+3/4 teaspoon pepper
+=======
+1/2 teaspoon salt
+1/4 teaspoon pepper
+1 teaspoon salt.
+1 teaspoon pepper.
+>>>>>>> 75ba452f0d87aaacfe15ce0adabc613154b41f6e
+
+>>>>>>> 7a8c4cdbb80733a5ea03ce91d34a65dc7ca0202f
 
 ------------
 Fish:
@@ -47,6 +64,10 @@ Fish:
 Fruit:
 Squeeze of lemon juice
 4 thin slices lemon
+<<<<<<< HEAD
+=======
+6 tomatoes
+>>>>>>> 7a8c4cdbb80733a5ea03ce91d34a65dc7ca0202f
 
 ------------
 <<<<<<< HEAD
@@ -64,16 +85,32 @@ Sauce:
 8 tbsp tomato ketchup
 1/4 pint mayonnaise
 1 tsp Worcestershire sauce
+<<<<<<< HEAD
 Marinara
+=======
+<<<<<<< HEAD
+------------
+Liquids:
+1 tbsp extra virgin olive oil
+1 tsp balsamic vinegar
+------------
+Herbs:
+6 basil leaves
+=======
+>>>>>>> 7a8c4cdbb80733a5ea03ce91d34a65dc7ca0202f
 
 ------------
 Oils:
 5 tablespoons olive oil.
 2 tablespoons sunflower oil
 >>>>>>> 18da179800e9c6bf44509165a661ab19ad70ec49
+<<<<<<< HEAD
 
 ------------
 Herbs:
 Basil
 
 ------------
+=======
+>>>>>>> 75ba452f0d87aaacfe15ce0adabc613154b41f6e
+>>>>>>> 7a8c4cdbb80733a5ea03ce91d34a65dc7ca0202f
