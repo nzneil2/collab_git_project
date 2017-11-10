@@ -10,7 +10,7 @@ Vegetables:
 1 garlic clove
 1 tbsp horseradish
 4 tbsp shredded letuce
-
+2 cloves garlic
 ------------
 Meats:
 
@@ -25,8 +25,8 @@ Grains:
 
 ------------
 Condiments:
-1/2 teaspoon salt
-1/4 teaspoon pepper
+1 1/2 teaspoon salt
+3/4 teaspoon pepper
 
 
 ------------
@@ -38,10 +38,17 @@ Fish:
 Fruit:
 Squeeze of lemon juice
 4 thin slices lemon
-
+6 tomatoes
 
 ------------
 Sauce:
 8 tbsp tomato ketchup
 1/4 pint mayonnaise
 1 tsp Worcestershire sauce
+------------
+Liquids:
+1 tbsp extra virgin olive oil
+1 tsp balsamic vinegar
+------------
+Herbs:
+6 basil leaves
