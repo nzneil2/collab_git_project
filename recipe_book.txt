@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 STARTERS:
 
 Prawn Cocktail:
@@ -40,3 +41,43 @@ Tuna Dip:
 dash garlic salt
 
 ----------------------------------------------
+=======
+Main Courses:
+-------------------------------------------
+Fettucini al fredo:
+1/2 cup butter
+2 tbsp cream cheese
+1 pint heavy cream
+1 tsp garlic powder
+1/2 tsp salt
+1/2 tsp pepper
+2/3 cup grated parmesan
+1 lb fettuccine
+
+-------------------------------------------
+Beef Fillet
+1.25 kg beef fillet trimmed 
+2 tablespoons sunflower oil
+
+-------------------------------------------
+Pizza alla norma
+2, Eggplant
+Pizza Dough
+Marinara
+1 tablespoon salt
+Ricotta salata
+Mozzarella
+2 tablespoons of olive oil
+Basil
+
+-------------------------------------------
+Vegetarian Risotto:
+3 tablespoons olive oil.
+8 cups vegetable broth.
+2 cups arborio rice.
+1 teaspoon salt.
+1 teaspoon pepper.
+2 cup grated parmesan.
+
+-------------------------------------------
+>>>>>>> 09ea9dea51416f7fe6b928f06b95299110fa3c8e
