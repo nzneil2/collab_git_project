@@ -40,6 +40,7 @@ small pack parsley, chopped
 
 =======
 Pizza-Pasta Section:
+<<<<<<< HEAD
 
 Pizza Pepperoni:
 Pizza dough
@@ -47,6 +48,25 @@ Pizza dough
 1 teaspoon dried basil
 6 ounces peperoni
 >>>>>>> d5dd5b9d321712ed6e5e240124aaa91492102f4c
+
+Pasta Bolognese:
+1 tablespoon olive oil
+2.5 onions
+2 carrots
+2 celery sticks
+2 garlic cloves
+3 sprigs rosemary
+500g beef mince
+1lb spaghetti
+
+Pasta Carbonara:
+1 tablespoom olive oil 
+500g pancetta 
+2 garlic cloves
+4 eggs
+1 cup grated parmesan 
+1 lb spaghetti pasta 
+>>>>>>> 27ab64feacd63172d9fe739a0c1507cf184f6c51
 
 <<<<<<< HEAD
 STARTERS:
@@ -82,16 +102,14 @@ Mushroom Soup:
 1/4 teaspoon pepper
 2 tablepoons flour
 
-
 Tuna Dip:
 8 ounces cream cheese
 1 can tuna ( 6 ounce )
 2 table spoon mayonnaise
 3 crushed garlic cloves
-dash garlic salt
-
-----------------------------------------------
+1 dash garlic salt
 =======
+
 Main Courses:
 -------------------------------------------
 Fettucini al fredo:
@@ -130,7 +148,6 @@ Vegetarian Risotto:
 2 cup grated parmesan.
 
 -------------------------------------------
-<<<<<<< HEAD
 Deserts:
 -------------------------------------------
 Banoffe Pie:
@@ -171,6 +188,7 @@ Chocolate Cake:
 1 cup milk
 2 large eggs
 ½ cup vegetable oil
+<<<<<<< HEAD
 =======
 >>>>>>> 09ea9dea51416f7fe6b928f06b95299110fa3c8e
 <<<<<<< HEAD
@@ -178,4 +196,9 @@ Chocolate Cake:
 =======
 >>>>>>> d3d5234163d2464007edb22e98099b6106c64a10
 
+<<<<<<< HEAD
 >>>>>>> d5dd5b9d321712ed6e5e240124aaa91492102f4c
+=======
+=======
+>>>>>>> 27ab64feacd63172d9fe739a0c1507cf184f6c51
+>>>>>>> db004468edcec0bf3158e170cd9647b5d82c78b0
