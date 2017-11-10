@@ -63,6 +63,7 @@ Fruit:
 Squeeze of lemon juice
 4 thin slices lemon
 6 tomatoes
+4 cups chopped fruit of any kind.
 
 ------------
 <<<<<<< HEAD
@@ -82,9 +83,14 @@ Sauce:
 1 tsp Worcestershire sauce
 <<<<<<< HEAD
 ------------
+Sweeteners:
+1 cup sugar.
+
+------------
 Liquids:
 1 tbsp extra virgin olive oil
 1 tsp balsamic vinegar
+3 cups water
 ------------
 Herbs:
 6 basil leaves
