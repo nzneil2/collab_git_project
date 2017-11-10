@@ -1,8 +1,12 @@
 Dairy:
 <<<<<<< HEAD
-8 ounces cream cheese.
+8 ounces cream cheese
+1/2 cup butter
+2 tbsp cream cheese
+1 pint heavy cream
+2/3 cup grated parmesan
 ------------
-2 cup grated parmesan.
+2 cup grated parmesan
 2 tablespoon butter
 1 cup light cream
 
@@ -14,7 +18,7 @@ Vegetables:
 <<<<<<< HEAD
 8 cups vegetable broth.
 3 crushed garlic cloves.
-
+1 tsp garlic powder
 
 ------------
 8 Mushrooms
@@ -43,8 +47,8 @@ Grains:
 ------------
 Condiments:
 <<<<<<< HEAD
-1 1/2 teaspoon salt
-3/4 teaspoon pepper
+2 teaspoon salt
+1 1/4 teaspoon pepper
 =======
 1/2 teaspoon salt
 1/4 teaspoon pepper
@@ -96,3 +100,6 @@ Oils:
 2 tablespoons sunflower oil
 >>>>>>> 18da179800e9c6bf44509165a661ab19ad70ec49
 >>>>>>> 75ba452f0d87aaacfe15ce0adabc613154b41f6e
+------------
+Pasta:
+1 lb fettuccine
